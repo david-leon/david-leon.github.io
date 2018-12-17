@@ -1,0 +1,7 @@
+site_name: David's Personal Page
+docs_dir: docs
+
+pages:
+    - Home: index.md 
+
+theme: material
